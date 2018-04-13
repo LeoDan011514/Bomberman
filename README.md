@@ -5,3 +5,6 @@ juego desarrollado por alumns de 8ctavo Semestre de la Universidad Autonoma de B
 Integrantes:
 Francisco Alexander Colores Martinez
 Leonardo Daniel Gonzalez Leon
+
+
+Link del juego : https://leodan011514.github.io/Bomberman/index.html
